@@ -1,3 +1,19 @@
+# Partlyhuman changes
+
+* Archived Ichigo's [original post](original-post/)
+* Archived Ichigo's [HuConv program](HuCONV_v1.5/) to prepare images for flashing
+* Created and added [templates](prints/) of my design including
+	* A vector file for cutting vinyl to mimic the UV protection coating
+	* A PSD template for making replica HuCard stickers
+	* A 3d print for risers
+* Gathered the original gerbers from root into a [gerbers folder](gerbers/)
+
+Please note that the development of this PCB and all credit aside from the prints goes to https://github.com/ichigobankai/. Their original [LICENSE](LICENSE) continues to apply.
+
+Below these edits are the original readme.
+
+---
+
 # HuCARD
 Hucard gerbers ready for fab.
 
