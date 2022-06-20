@@ -1,3 +1,19 @@
+# Partlyhuman changes
+
+* Archived Ichigo's original post at https://github.com/partlyhuman/HuCARD-repro-gerbers/blob/master/original-post/
+* Archived Ichigo's HuConv program to prepare images for flashing at https://github.com/partlyhuman/HuCARD-repro-gerbers/blob/master/HuCONV_v1.5/
+* Created and added templates to https://github.com/partlyhuman/HuCARD-repro-gerbers/blob/master/prints/ of my design including
+	* A vector file for cutting vinyl to mimic the UV protection coating
+	* A PSD template for making replica HuCard stickers
+	* A 3d print for risers
+* Gathered the original gerbers into the https://github.com/partlyhuman/HuCARD-repro-gerbers/blob/master/gerbers/ directory
+
+Please note that the development of this PCB and all credit aside from the prints goes to https://github.com/ichigobankai/. Their original license terms apply https://github.com/partlyhuman/HuCARD-repro-gerbers/blob/master/LICENSE.
+
+Below these edits are the original readme.
+
+---
+
 # HuCARD
 Hucard gerbers ready for fab.
 
