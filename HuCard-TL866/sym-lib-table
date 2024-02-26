@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "HUC_Connector")(type "KiCad")(uri "${KIPRJMOD}/Libraries/HUC_Connector.kicad_sym")(options "")(descr ""))
+  (lib (name "HUC_SST")(type "KiCad")(uri "/Users/roger/Documents/HuCARD-repro-gerbers/gerbers/Libraries/SST39SF040.kicad_sym")(options "")(descr ""))
+)

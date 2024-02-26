@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "HUC_SST")(type "KiCad")(uri "${KIPRJMOD}/Libraries/SST39SF040.pretty")(options "")(descr ""))
+)
