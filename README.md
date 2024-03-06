@@ -7,6 +7,8 @@
 	* A PSD template for making replica HuCard stickers
 	* A 3d print for risers
 * Gathered the original gerbers from root into a [gerbers folder](gerbers/)
+* **NEW!** Added a [programming adapter](HuCard-TL866/) for use with the popular TL866 II programmer
+* **In progress** Started to reverse engineer the gerbers into a Kicad project. Will probably relayout things so this isn't a shameless clone.
 
 Please note that the development of this PCB and all credit aside from the prints goes to https://github.com/ichigobankai/. Their original [LICENSE](LICENSE) continues to apply.
 
