@@ -1,4 +1,10 @@
-# Partlyhuman changes
+This is a fork of @ichigobankai's excellent [reproduction HuCards](https://github.com/ichigobankai/HuCARD-repro-gerbers).
+
+The goals of this fork are:
+1. Archive Ichigo's hard work so it's not lost
+2. Add accessories I've developed while using Ichigo's designs
+
+# Changelog
 
 * Archived Ichigo's [original post](original-post/)
 * Archived Ichigo's [HuConv program](HuCONV_v1.5/) to prepare images for flashing
@@ -11,25 +17,3 @@
 * **In progress** Started to reverse engineer the gerbers into a Kicad project. Will probably relayout things so this isn't a shameless clone.
 
 Please note that the development of this PCB and all credit aside from the prints goes to https://github.com/ichigobankai/. Their original [LICENSE](LICENSE) continues to apply.
-
-Below these edits are the original readme.
-
----
-
-# HuCARD
-Hucard gerbers ready for fab.
-
-Hucard thickness need to be around ~2.4mm
-
-TSOP is on the bottom side
-
-You need to add a 2nd layer (plastic for example) to ensure thickness as PBC tends to be 2mm at maximum.
-
-TSOP can be :
-- 39SF0x0 series (SST/Microchip short "32 pins") - up to 4Mbits / 512kB, 
-- 29F0x0 series (AMD and other brands, "long" 32 pins) - up to 4Mbits / 512kB,
-- 29F080 40 pins - 8Mbits / 1MB
-
-TSOP can also be (re)flashed after soldering (/WE flash connected to /WE bus)
-
-ICHIGO
