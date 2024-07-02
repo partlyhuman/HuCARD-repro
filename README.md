@@ -18,6 +18,7 @@ The goals of this fork are:
 	* A PSD template for making replica HuCard stickers
 	* A 3d print for risers
 * Added a [programming adapter](HuCard-TL866/) for use with the popular TL866 II programmer
+* Contributed a [programming routine](https://github.com/sanni/cartreader/pull/977) to the Open Source Cart Reader
 
 # Usage
 
